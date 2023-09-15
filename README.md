@@ -10,6 +10,11 @@
 
 <h1 align="center">Olá, eu sou o Kauã Nunes, Seja Bem-Vindo ao Meu Perfil☕</h1>
 <h4 align="center"> Inspetor Da Qualidade em transição de carreira. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na SP Tech e estudando por conta própria para aprimorar meus conhecimentos</h4>
+<h4 align="left"> Sobre Mim:
+- Atualmente tenho 20 anos😎
+- Gosto de Gatos🐈
+- Amo tudo que envolve tecnologia💻
+- Curto carros JDM🚗</h4>
 
 <div align="center">
   <a href="https://github.com/KauaNuness"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=kauanuness&show_icons=true&theme=default&include_all_commits=false&count_private=false"/></a>
