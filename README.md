@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">Olá, eu sou o Kauã Nunes, Seja Bem-Vindo ao Meu Perfil☕</h1>
-<h4 align="center">Atualmente estou cursando Análise e Desenvolvimento de Sistemas na SP Tech e estudando por conta própria para aprimorar meus conhecimentos</h4>
+<h4 align="center">Atualmente, estou matriculado no curso de Análise e Desenvolvimento de Sistemas na SPTech. Além disso, dedico-me ao estudo autodidata para aprimorar meus conhecimentos na área. Estou também realizando estágio na Meta IT, desempenhando a função de estagiário na gestão de plataformas SAP.</h4>
 
 <div align="center">
   <a href="https://github.com/KauaNuness"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=kauanuness&show_icons=true&theme=default&include_all_commits=false&count_private=false"/></a>
