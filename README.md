@@ -3,29 +3,35 @@
   <img src="https://komarev.com/ghpvc/?username=kauanuness&style=plastic&label=Stalker+visits" alt="kauanuness" />
 </p>
 
-<p align="center">
-  <a href="https://instagram.com/22kaua22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="22kaua22" height="30" width="40" /></a>
- 
-</p>
+## Olá, seja bem-vindo(a) ao meu perfil
+● Estou cursando Análise e Desenvolvimento de Sistemas na faculdade São Paulo Tech School 🎓
 
-<h1 align="center">Olá, eu sou o Kauã Nunes, Seja Bem-Vindo ao Meu Perfil☕</h1>
-<h4 align="center">Atualmente, estou matriculado no curso de Análise e Desenvolvimento de Sistemas na SPTech. Além disso, dedico-me ao estudo autodidata para aprimorar meus conhecimentos na área. Estou também realizando estágio na Meta IT, desempenhando a função de estagiário na gestão de plataformas SAP.</h4>
+● Olá! Sou o Kauã Nunes, um entusiasta de tecnologia e estudante na SPTech(São Paulo Tech School). Durante minha jornada de aprendizado até o momento, adquiri habilidades em HTML, CSS, JavaScript e MySQL.
 
-<div align="center">
-  <a href="https://github.com/KauaNuness"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=kauanuness&show_icons=true&theme=default&include_all_commits=false&count_private=false"/></a>
-  <a href="https://github.com/KauaNuness"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanuness&layout=compact&langs_count=6&theme=default"/></a>
+● Também estou realizando um estágio na Meta IT como estagiário de consultor SAP, onde estou mergulhando no mundo dos sistemas de gestão empresarial e adquirindo experiência prática em processos de negócios e tecnologias relacionadas.
+
+● Além disso, estou empolgado em participar do meu próximo projeto em equipe, onde estamos desenvolvendo uma aplicação utilizando uma ampla gama de tecnologias, incluindo SQL Server, Java e o sistema operacional Ubuntu e Windowns. Nosso objetivo é integrar todos esses componentes e hospedar o projeto na nuvem AWS, proporcionando uma experiência robusta e escalável para nossos usuários.
+
+● Estou sempre aberto a novas oportunidades de aprendizado e colaboração. Se você quiser discutir tecnologia, projetos ou oportunidades de trabalho, sinta-se à vontade para entrar em contato!
+
+<div>
+  <a href="https://github.com/KauaNuness">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauaNuness&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaNuness&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
-<br/>
-<p align="center">
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vs code" width="40" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="vs code" width="40" height="30"/>
-  
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="30"/>
-  
-</p>
+
+● Minhas Tecnologias:
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Day-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+  <img align="center" alt="Day-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Day-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Day-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Day-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+</div>
+
+<div>
+  <a href="https://www.instagram.com/22kaua22/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/kauã-nunes-954112232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto: kaua.sptech071@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
