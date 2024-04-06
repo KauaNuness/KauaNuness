@@ -33,7 +33,8 @@
 ● Minhas Ferramentas:
 <div style="display: inline_block">
   <img align="center" alt="Kau-intellij" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-plain.svg">  
-  <img align="center" alt="Kau-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain.svg">  
+  <img align="center" alt="Kau-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain.svg"> 
+  <img align="center" alt="Kau-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">  
 </div><br>
 
 <div>
