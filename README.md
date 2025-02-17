@@ -24,7 +24,7 @@
     Alguns projetos: <br>
     <img src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif" width="30" height="30"><a href="https://github.com/KauaNuness/projeto-individual"> Trabalho Individual do Primeiro Semestre da Faculdade</a> <br>
     <img src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif" width="30" height="30"><a href="https://github.com/orgs/TermoTech/repositories"> Projeto em Grupo do Primeiro Semestre da Faculdade </a> <br>
-    <img src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif" width="30" height="30"><a href="https://github.com/Grupo-1-2ADSB"> Trabalho em Grupo do Segundo Semestra da Faculdade </a> <br>
+    <img src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif" width="30" height="30"><a href="https://github.com/Grupo-1-2ADSB"> Trabalho em Grupo do Segundo Semestre da Faculdade </a> <br>
     <img src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif" width="30" height="30"><a href="https://www.linkedin.com/feed/update/urn:li:activity:7276320840072257536/"> Projeto E-commerce TC Ateliê </a> <br>
              Para mais informações, acesse meu <a href="https://www.linkedin.com/in/kaununes/">LinkedIn</a> e meus <a href="https://github.com/kauanuness?tab=repositories"> repositórios </a> no GitHub
   </div>
