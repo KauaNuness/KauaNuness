@@ -1,10 +1,42 @@
-# 👋 Olá, eu sou o Kauã Nunes
+# 👋 Hi, I'm Kauã Nunes
 
 <p align="center">
   <img src="https://i.redd.it/12qyupc24fkd1.gif" width="520" />
 </p>
 
-Sou **Desenvolvedor Full Stack**, **formado em Análise e Desenvolvimento de Sistemas** pela **São Paulo Tech School**, com foco em criar soluções eficientes, bem estruturadas e escaláveis.
+## 🚀 About Me
+
+I'm a **Full Stack Developer**, graduated in **Systems Analysis and Development** from **São Paulo Tech School**,  
+currently pursuing a **Postgraduate degree in Software Engineering at FMU**.
+
+I focus on building **well-structured, scalable systems** with strong attention to **code quality, architecture, and performance**.
+
+---
+
+## 🧠 What I Do
+
+- 🏗️ Backend development with REST APIs
+- 🔐 Authentication & security (JWT, access control)
+- 🧩 Clean code and well-structured architectures
+- 💾 Database modeling and integration
+- ⚡ Performance optimization and business logic design
+- 🤝 Team collaboration using Git and version control
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Backend
+Java • Node.js • REST APIs • System Design  
+
+### 🌐 Frontend
+HTML • CSS • JavaScript • React  
+
+### 🗄️ Databases
+MySQL • MongoDB  
+
+### ⚙️ Tools & DevOps
+Git • GitHub • IntelliJ • VS Code • Figma  
 
 ---
 
@@ -17,61 +49,44 @@ Sou **Desenvolvedor Full Stack**, **formado em Análise e Desenvolvimento de Sis
 
 ---
 
-## 👨‍💻 Sobre mim
+## 🚀 Featured Projects
 
-- 🎓 **Formado em Análise e Desenvolvimento de Sistemas**
-- 💻 **Desenvolvedor Full Stack**
-- 🌍 Inglês **Intermediário**
-- 🧠 Gosto de resolver problemas, aprender coisas novas e escrever código limpo
-- 🚀 Busco evolução constante como desenvolvedor e profissional
+### 🎬 Movie Recommendation API  
+🔗 https://github.com/KauaNuness/movie-recommendation-api  
+REST API for movie recommendations with external integration, business logic, and structured architecture.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35"/>
-</p>
+### 📅 Scheduling System  
+🔗 https://github.com/KauaNuness/agendamentos  
+Backend system for managing appointments, focused on data persistence and application organization.
 
 ---
 
-## 📂 Projetos em destaque
-
-- 🎬 **[Movie Recommendation API](https://github.com/KauaNuness/movie-recommendation-api)**  
-  API REST para recomendação de filmes, com integração externa, regras de negócio e arquitetura bem definida.
-
-- 📅 **[Sistema de Agendamentos](https://github.com/KauaNuness/agendamentos)**  
-  Sistema para gerenciamento de agendamentos, focado em backend, organização de dados e persistência.
-
-- 🧩 **[Projeto Individual – 1º Semestre](https://github.com/KauaNuness/projeto-individual)**  
-  Projeto acadêmico individual, aplicando fundamentos de desenvolvimento web e lógica de programação.
-
-- 🤝 **[Projeto em Grupo – 1º Semestre (TermoTech)](https://github.com/orgs/TermoTech/repositories)**  
-  Projeto colaborativo com foco em trabalho em equipe, versionamento e entrega de solução funcional.
-
-- 🏗️ **[Projeto em Grupo – 2º Semestre](https://github.com/Grupo-1-2ADSB)**  
-  Continuação do desenvolvimento acadêmico em grupo, com maior complexidade técnica e organizacional.
-
-- 🛒 **[E-commerce – TC Ateliê](https://github.com/orgs/grupo-04-3adsb/repositories)**  
-  Repositório do projeto de e-commerce completo desenvolvido em equipe, com frontend, backend e integração de funcionalidades.
-
-➡️ Veja mais nos meus [repositórios](https://github.com/kauanuness?tab=repositories)
+### 🛒 E-commerce – TC Ateliê  
+🔗 https://github.com/orgs/grupo-04-3adsb/repositories  
+Full-stack team project with real-world features including frontend, backend, and system integration.
 
 ---
 
-## 📫 Contato
+### 🧩 Academic Projects
+- Individual project (core development fundamentals)  
+- Team projects (collaboration, version control, and technical growth)  
+
+➡️ See more: https://github.com/kauanuness?tab=repositories
+
+---
+
+## 🌍 Additional Information
+
+- 🎓 Postgraduate student in Software Engineering (in progress)
+- 🌎 Intermediate English
+- 📚 Continuous learning in backend and software architecture
+- 🚀 Focused on professional growth and real-world systems
+
+---
+
+## 📫 Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kaununes/" target="_blank">
@@ -84,3 +99,9 @@ Sou **Desenvolvedor Full Stack**, **formado em Análise e Desenvolvimento de Sis
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
+
+---
+
+## 💡 Philosophy
+
+> "Code is not just about working — it's about being scalable, maintainable, and creating real value."
