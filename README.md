@@ -1,42 +1,48 @@
 # 👋 Hi, I'm Kauã Nunes
 
 <p align="center">
-  <img src="https://i.redd.it/12qyupc24fkd1.gif" width="520" />
+  <img src="https://i.pinimg.com/originals/91/9d/38/919d38ae746bf3494dda26dc07dc2735.gif" width="520" />
 </p>
 
 ## 🚀 About Me
 
-I'm a **Full Stack Developer**, graduated in **Systems Analysis and Development** from **São Paulo Tech School**,  
-currently pursuing a **Postgraduate degree in Software Engineering at FMU**.
+I'm an **Associate, Back-End Developer at Avanade**, focused on backend development with **Java and Spring Boot**.
 
-I focus on building **well-structured, scalable systems** with strong attention to **code quality, architecture, and performance**.
+Graduated in **Systems Analysis and Development** from São Paulo Tech School, I'm passionate about software engineering, clean code, scalable architectures, and building reliable backend applications.
+
+I enjoy solving problems, learning new technologies, and developing solutions that deliver real value.
 
 ---
 
 ## 🧠 What I Do
 
-- 🏗️ Backend development with REST APIs
-- 🔐 Authentication & security (JWT, access control)
-- 🧩 Clean code and well-structured architectures
-- 💾 Database modeling and integration
-- ⚡ Performance optimization and business logic design
-- 🤝 Team collaboration using Git and version control
+- ☕ Backend development with Java and Spring Boot
+- 🔌 REST API development and integration
+- 🏗️ Software architecture and design patterns
+- 🧩 Clean Code and SOLID principles
+- 🔐 Authentication and application security
+- 💾 Database modeling and persistence
+- ⚡ Business logic implementation and performance optimization
+- 🤝 Collaborative development using Git and Agile methodologies
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Backend
-Java • Node.js • REST APIs • System Design  
-
-### 🌐 Frontend
-HTML • CSS • JavaScript • React  
+Java • Spring Boot • Spring Data JPA • Hibernate • REST APIs
 
 ### 🗄️ Databases
-MySQL • MongoDB  
+PostgreSQL • MySQL • MongoDB
+
+### 🏛️ Architecture & Concepts
+SOLID • Clean Code • Hexagonal Architecture • Design Patterns • Microservices
 
 ### ⚙️ Tools & DevOps
-Git • GitHub • IntelliJ • VS Code • Figma  
+Git • GitHub • Maven • Docker • IntelliJ IDEA • VS Code
+
+### 🌐 Additional Knowledge
+JavaScript • Node.js • React • HTML • CSS
 
 ---
 
@@ -51,38 +57,36 @@ Git • GitHub • IntelliJ • VS Code • Figma
 
 ## 🚀 Featured Projects
 
-### 🎬 Movie Recommendation API  
-🔗 https://github.com/KauaNuness/movie-recommendation-api  
-REST API for movie recommendations with external integration, business logic, and structured architecture.
+### 🎬 Movie Recommendation API
+🔗 https://github.com/KauaNuness/movie-recommendation-api
 
----
+REST API for movie recommendations, featuring external integrations, business logic, and structured backend architecture.
 
-### 📅 Scheduling System  
-🔗 https://github.com/KauaNuness/agendamentos  
-Backend system for managing appointments, focused on data persistence and application organization.
+### 📅 Scheduling System
+🔗 https://github.com/KauaNuness/agendamentos
 
----
+Backend application for appointment management, focusing on data persistence and application organization.
 
-### 🛒 E-commerce – TC Ateliê  
-🔗 https://github.com/orgs/grupo-04-3adsb/repositories  
-Full-stack team project with real-world features including frontend, backend, and system integration.
+### 🛒 E-commerce – TC Ateliê
+🔗 https://github.com/orgs/grupo-04-3adsb/repositories
 
----
+Full-stack team project involving frontend, backend, and system integration.
 
-### 🧩 Academic Projects
-- Individual project (core development fundamentals)  
-- Team projects (collaboration, version control, and technical growth)  
+### 🧩 More Projects
 
-➡️ See more: https://github.com/kauanuness?tab=repositories
+Explore my repositories and ongoing projects:
+
+➡️ https://github.com/kauanuness?tab=repositories
 
 ---
 
 ## 🌍 Additional Information
 
-- 🎓 Postgraduate student in Software Engineering (in progress)
+- 💼 Associate, Back-End Developer at Avanade
+- 🎓 Bachelor's degree in Systems Analysis and Development
 - 🌎 Intermediate English
-- 📚 Continuous learning in backend and software architecture
-- 🚀 Focused on professional growth and real-world systems
+- 📚 Continuously learning about Java, Spring Boot, and Software Architecture
+- 🚀 Focused on backend engineering and professional growth
 
 ---
 
@@ -104,4 +108,4 @@ Full-stack team project with real-world features including frontend, backend, an
 
 ## 💡 Philosophy
 
-> "Code is not just about working — it's about being scalable, maintainable, and creating real value."
+> "Great software is built with clean code, thoughtful architecture, and continuous improvement."
