@@ -49,8 +49,8 @@ JavaScript • Node.js • React • HTML • CSS
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kauanuness&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanuness&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-stats-extended.vercel.app/api?username=kauanuness&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kauanuness&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
